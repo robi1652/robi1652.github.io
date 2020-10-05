@@ -13,6 +13,8 @@ resume {
 }
 
 body {
+    height: 100%;
+    width: 100%;
     background: lightslategray;
     display: table-cell;
     font-family: "Trebuchet MS", Helvetica, sans-serif;	
